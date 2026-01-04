@@ -1,0 +1,13 @@
+# Ignore datasets
+processed Dataset/
+
+# Ignore trained models
+models/
+
+# Python cache
+__pycache__/
+.ipynb_checkpoints/
+
+# Logs & temp
+*.log
+*.tmp
